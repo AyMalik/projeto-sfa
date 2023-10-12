@@ -1,0 +1,28 @@
+body {
+  background-color: #684416;
+  color: white;
+}
+
+.criadores {
+  color: white;
+  background-color: #333;
+  width: 150px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.house {
+  border-radius: 20px;
+}
+
+.quadros {
+  border-radius: 20px;
+}
+
+.materiais {
+  color: white;
+  background-color: #333;
+  width: 150px;
+  border-radius: 20px;
+  padding: 5px;
+}
